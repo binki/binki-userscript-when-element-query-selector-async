@@ -8,7 +8,7 @@ Include this in your userscript using [`@require`](https://wiki.greasespot.net/M
 // ==UserScript==
 // @name example
 // @version 1.0
-// @require ttps://github.com/binki/binki-userscript-when-element-query-selector-async/raw/master/binki-userscript-when-element-query-selector-async.js
+// @require https://github.com/binki/binki-userscript-when-element-query-selector-async/raw/master/binki-userscript-when-element-query-selector-async.js
 // ==UserScript==
 
 (async () => {
